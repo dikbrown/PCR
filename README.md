@@ -1,0 +1,2 @@
+# PCR
+Principal Component Regression
